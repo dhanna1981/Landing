@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Consumer Utility Advocate",
+        "paragraph": "Save Money on your every day utility expenses!"
 
     },
     "About": {
@@ -105,32 +105,32 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "170 West State St. Sharon, Pa. 16146 ",
+        "phone": "724.979.4103",
+        "email": "example@consumerutilityadvocates.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-bolt",
+            "title": "Electric Supply",
+            "text": "Shop the best secure rate plans on the market!"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-fire",
+            "title": "Gas Supply",
+            "text": "Check to see if we offer Gas rates in your area."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-lock",
+            "title": "Secure Rate Plans",
+            "text": "We only offer Secure Rate Plans so you will know what rate you pay every month!"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-heart-o",
+            "title": "Green Energy Rates",
+            "text": "Shop one of our 100% renewable energy sources!"
         }
     ]
 }
