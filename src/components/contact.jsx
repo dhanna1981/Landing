@@ -117,9 +117,9 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
+              &copy; 2020 Consumer Utility Advocate{" "}
+              <a href="http://www.telestarsllc.com" rel="nofollow">
+                Telestars LLC
               </a>
             </p>
           </div>

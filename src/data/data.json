@@ -6,102 +6,102 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "We have one mission!  To save you $$$ on your ever day utility expenses.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "We help you save $!",
+            "No charge to use our services!",
+            "We educate you to make the best choice!",
+            "Our service is free to use!"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Energy Deregulation!",
+            "We do business in multiple states!",
+            "Excelent relationships with our suppliers!",
+            "Experienced agents to help you save!"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-diamond",
+            "name": "Pennsylvania",
+            "text": "We service multiple utility companies in the keystone state!  Enter your zip code above to see how we can save you money!"
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-pagelines",
+            "name": "Ohio",
+            "text": "Enter your zip code above to see how we can save you money in the buckeye state!"
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-bullseye",
+            "name": "Connecticut",
+            "text": "With local utility delivery costs skyrocketing, there has never been a better time to choose a supplier!  Enter your zip code above, and know how much you are paying for the supply."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-coffee",
+            "name": "Massachusetts",
+            "text": "Did you know that the state of Massachusetts has some of the highest supply costs in the deregulated energy market?  Enter your zip code above to see how much we can save you!"
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-empire",
+            "name": "New York",
+            "text": "Enter your zip code above to see how we can help you save on both electricity and gas supply services!"
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-leaf",
+            "name": "New Jersey",
+            "text": "Let us help you select a supplier to save you money on your generation costs.  Enter your zip code above."
         }
 
 
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"This is the first customer testimonial.\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"This is the second customer testimonial.\"",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"This is the third customer testimonial.\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"This is the fourth customer testimonial.\"",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"This is the fifth customer testimonial.\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"This is the last customer testimonial.\"",
             "name": "Johnathan Doe"
         }
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Starion Energy",
+            "job": "Starion Rewards available"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "RPA Energy",
+            "job": "Rewards Available"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Kiwi Energy",
+            "job": "Rewards Available"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Residents Energy",
+            "job": "Rewards Available"
         }
     ],
     "Contact": {
@@ -123,9 +123,9 @@
             "text": "Check to see if we offer Gas rates in your area."
         },
         {
-            "icon": "fa fa-lock",
-            "title": "Secure Rate Plans",
-            "text": "We only offer Secure Rate Plans so you will know what rate you pay every month!"
+            "icon": "fa fa-money",
+            "title": "Rewards insentives",
+            "text": "Why not get rewarded for the money you have to spend?  Check out our awesome rewards programs!"
         },
         {
             "icon": "fa fa-heart-o",

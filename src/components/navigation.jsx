@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import logo from './logo.png';
 
 export class Navigation extends Component {
   render() {
@@ -19,7 +20,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              Utility Advocates
+              <img width ='100px' height ='60px' src={logo} alt="Logo" />
             </a>{" "}
           </div>
 
@@ -30,22 +31,22 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
-                </a>
-              </li>
-              <li>
-                <a href="#about" className="page-scroll">
-                  About
-                </a>
-              </li>
-              <li>
-                <a href="#services" className="page-scroll">
                   Services
                 </a>
               </li>
               <li>
+                <a href="#about" className="page-scroll">
+                  About Us
+                </a>
+              </li>
+              <li>
+                <a href="#services" className="page-scroll">
+                  Service Areas
+                </a>
+              </li>
+              <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                  Utilities
                 </a>
               </li>
               <li>
@@ -55,7 +56,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#team" className="page-scroll">
-                  Team
+                  Suppliers
                 </a>
               </li>
               <li>

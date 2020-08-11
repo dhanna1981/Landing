@@ -6,10 +6,9 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
+            <h2>Utilies we Serve</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              Here is a list of some of the utility companies we serve.  Enter your zip code above to see if we service your area!
             </p>
           </div>
           <div className="row">
@@ -24,7 +23,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>CLP Eversource</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -45,7 +44,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>United Illuminating</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -66,7 +65,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>National Grid</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
@@ -87,7 +86,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Duquesne Light</h4>
                       </div>
                       <img
                         src="img/portfolio/04-small.jpg"
@@ -108,7 +107,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Met-Ed</h4>
                       </div>
                       <img
                         src="img/portfolio/05-small.jpg"
@@ -129,7 +128,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>PECO</h4>
                       </div>
                       <img
                         src="img/portfolio/06-small.jpg"
@@ -150,7 +149,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>PPL Electric Utilities</h4>
                       </div>
                       <img
                         src="img/portfolio/07-small.jpg"
@@ -171,7 +170,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Duke Energy</h4>
                       </div>
                       <img
                         src="img/portfolio/08-small.jpg"
@@ -192,7 +191,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>ConEdison</h4>
                       </div>
                       <img
                         src="img/portfolio/09-small.jpg"
