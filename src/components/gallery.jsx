@@ -6,7 +6,7 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Utilies we Serve</h2>
+            <h2>Utilities we Serve</h2>
             <p>
               Here is a list of some of the utility companies we serve.  Enter your zip code above to see if we service your area!
             </p>
